@@ -1,0 +1,32 @@
+{
+    "eventos" : [
+        {
+            "descricao": "Estudar React",
+            "inicio": "2023-05-15T09:00",
+            "fim": "2023-05-15T13:00",
+            "completo": false,
+            "id": 1642342747
+        },
+        {
+            "descricao": "Estudar .Net Core",
+            "inicio": "2023-05-17T09:00",
+            "fim": "2023-05-17T10:00",
+            "completo": false,
+            "id": 1642342748
+        },
+        {
+            "descricao": "Ir ao cinema",
+            "inicio": "2023-05-20T09:00",
+            "fim": "2023-05-20T13:00",
+            "completo": false,
+            "id": 1642342749
+        },
+        {
+            "descricao": "Programar",
+            "inicio": "2023-05-16T09:00",
+            "fim": "2023-05-16T11:00",
+            "completo": false,
+            "id": 1642342960
+        }
+    ]
+}
